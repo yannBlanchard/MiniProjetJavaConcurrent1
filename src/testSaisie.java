@@ -1,5 +1,6 @@
+import javax.swing.*;
 
-public class testSaisie {
+public class testSaisie extends JFrame{
 
 	public static void main(String[] args) {
 		SimpleFenetre fenetreAff = new SimpleFenetre("Main Affichage");
